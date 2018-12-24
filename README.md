@@ -7,5 +7,5 @@ Notes Exercises and Assignments for [Udacity Deep Reinforcement Learning Nanodeg
 
 ### Solutions for Exercises and Assignments : 
 
-- [ ] [ Coursework - ]()
+- [ ] [ Coursework - Implementations of many Monte Carlo methods](/coursework/monte-carlo)
 - [ ] [ **Project** - ]() || [_Project Review_]() 
