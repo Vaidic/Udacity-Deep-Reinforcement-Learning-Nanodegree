@@ -7,5 +7,10 @@ Notes Exercises and Assignments for [Udacity Deep Reinforcement Learning Nanodeg
 
 ### Solutions for Exercises and Assignments : 
 
-- [ ] [ Coursework - Implementations of many Monte Carlo methods](/coursework/monte-carlo)
+- [x] [ Coursework - Implementations of many Monte Carlo methods using [OpenAI Blackjack](https://github.com/openai/gym/blob/master/gym/envs/toy_text/blackjack.py)](/coursework/monte-carlo)
+- [x] [ Coursework - Implementations of many Temporal-Difference methods using [OpenAI CliffWalking](https://github.com/openai/gym/blob/master/gym/envs/toy_text/cliffwalking.py)](/coursework/temporal-difference)
+- [x] [ Coursework - Solving [OpenAI Taxi Problem](https://gym.openai.com/envs/Taxi-v1/)](/coursework/lab-taxi)
+
+
+
 - [ ] [ **Project** - ]() || [_Project Review_]() 
